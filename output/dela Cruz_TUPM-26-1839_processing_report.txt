@@ -1,0 +1,13 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+=====================================
+Last Name: dela Cruz
+Student ID: TUPM-26-1839
+Seed Digit: 9
+ID Sum: 29
+=====================================
+Verification Value: 270
+Dataset Sample Size: 79
+Valid Records: 79
+Average Global Active Power: 3.951
+ JSON File: (LAST_NAME}_{STUDENT_ID}_record.json
+ Backup File: dela Cruz TUPM-26-1839_record.csv
